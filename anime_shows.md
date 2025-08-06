@@ -4,8 +4,8 @@
 1. Haibane Renmei
 1. Attack on Titan
 1. Neon Genesis Evangelion
-1. HunterxHunter
 1. Freiren
+1. HunterxHunter
 1. Cyberpunk Edgerunners
 1. Darling in the Franxx
 1. Madoka Magica
