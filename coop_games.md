@@ -20,8 +20,8 @@
 1. REPO
 1. Schedule I
 1. PixelJunk Shooter
+1. Unrailed (Series)
 1. Killing Floor I
 1. Borderlands I
-1. Unrailed
 1. Don't Starve
 1. Content Warning
