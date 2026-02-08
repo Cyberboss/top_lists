@@ -12,6 +12,7 @@
 1. Shrek II
 1. Inside Out II
 1. Sinbad
+1. Rise of the Guardians
 1. Inside Out I
 1. Zootopia
 1. The Road to El Dorado
@@ -20,9 +21,11 @@
 1. The Lego Movie II
 1. Howl's Moving Castle
 1. The Cat Returns
+1. The Spongebob Movie
 1. Shrek
 1. The Mario Movie
 1. Hilda: Mountain King
+1. Bolt
 1. Chicken Run
 1. How to Train Your Dragon III
 1. The Mitchells vs the Machines
