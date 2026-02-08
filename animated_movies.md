@@ -11,8 +11,10 @@
 1. Across the Spiderverse
 1. Shrek II
 1. Sinbad
+1. Zootopia
 1. The Road to El Dorado
 1. Riverdance
+1. Soul
 1. The Lego Movie II
 1. Howl's Moving Castle
 1. The Cat Returns
