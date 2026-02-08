@@ -6,6 +6,7 @@
 1. Dota 2
 1. Duck Game
 1. Blackwake
+1. Battlefield: Bad Company 2
 1. Foxhole
 1. Natural Selection 2
 1. Rounds
@@ -13,6 +14,7 @@
 1. Team Fortress 2
 1. Dead by Daylight
 1. SpeedRunners
+1. Worms (Series)
 1. Garry's Mod
 1. MINDNIGHT
 1. (That one king's court deduction game)
@@ -21,9 +23,11 @@
 1. Rainbow 6 Seige (Pre-enshittification)
 1. Stick Fight the Game
 1. Deadlock
+1. Double Action: Boogaloo
 1. Tooth and Tail
 1. Unfortunate Spacemen
 1. Planetside II
+1. Friday the 13th: The Video Game
 1. Fall Guys
 1. Barotrauma
 1. Amongus
