@@ -50,9 +50,11 @@
 1. Against the Storm
 1. Star Wars: Knights of the Old Republic
 1. Cave Story+
+1. Opus Magnum
 1. Just Cause 2
 1. Crypt of the Necrodancer
 1. War for the Overworld
+1. Infinifactory
 1. Minit
 1. SpaceChem
 1. The Incredible Machine (DOS)
