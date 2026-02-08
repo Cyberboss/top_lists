@@ -20,6 +20,7 @@
 1. The Mario Movie
 1. Hilda: Mountain King
 1. How to Train Your Dragon III
+1. The Mitchells vs the Machines
 1. Bubble
 1. How to Train Your Dragon I
 1. My Neighbor Totoro
