@@ -9,6 +9,7 @@
 1. The Matrix III
 1. Avengers: Endgame
 1. Black Panther
+1. Tenet
 1. Sahara
 1. Avengers: Infinity War
 1. Palm Springs
@@ -27,6 +28,7 @@
 1. The Matrix I
 1. Ant-Man
 1. Guardians of the Galaxy III
+1. The Dark Knight Rises
 1. Iron Man II
 1. Ender's Game
 1. Men in Black I
