@@ -14,8 +14,10 @@
 1. Avengers: Infinity War
 1. Palm Springs
 1. Bayformers III
+1. Everything, Everywhere, All at Once
 1. Top Gun: Maverick
 1. Beetlejuice II
+1. Get Out
 1. Ant-Man II
 1. Avengers
 1. Jurassic Park I
@@ -34,6 +36,7 @@
 1. Blade Runner
 1. A Quiet Place
 1. The Dark Knight Rises
+1. IT (2017)
 1. Iron Man II
 1. Ender's Game
 1. Men in Black I
