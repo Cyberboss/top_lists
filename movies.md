@@ -31,13 +31,17 @@
 1. Iron Man III
 1. Ant-Man
 1. Guardians of the Galaxy III
+1. A Quiet Place
 1. The Dark Knight Rises
 1. Iron Man II
 1. Ender's Game
 1. Men in Black I
 1. Jumanji (OG)
-1. Indiana Jones I
 1. Mission Impossible: Ghost Protocol
+1. Ghostbusters I
+1. Bird Box
+1. Indiana Jones I
+1. Ghostbusters II
 1. Ant-Man III
 1. Oppenheimer
 1. Indiana Jones V
@@ -53,6 +57,7 @@
 1. School of Rock
 1. Black Adam
 1. The Mask
+1. Batman v Superman
 1. Total Recall (Remake)
 1. Don't Look Up
 1. Back to the Future II
