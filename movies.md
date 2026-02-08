@@ -25,6 +25,7 @@
 1. Men in Black II
 1. Waking Ned Devine
 1. Kong: Skull Island
+1. I Robot
 1. Indiana Jones III
 1. The Fifth Element
 1. Beetlejuice I
@@ -41,6 +42,7 @@
 1. Ender's Game
 1. Men in Black I
 1. Jumanji (OG)
+1. I am Legend
 1. Mission Impossible: Ghost Protocol
 1. Ghostbusters I
 1. Bird Box
@@ -52,8 +54,9 @@
 1. Minecraft Movie
 1. Slumberland
 1. Godzilla (1998)
-1. Indiana Jones II
+1. Hancock
 1. Indiana Jones IV
+1. Indiana Jones II
 1. Ghost in the Shell (Live Action)
 1. Shazam
 1. Jurassic Park III
