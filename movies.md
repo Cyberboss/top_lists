@@ -47,9 +47,10 @@
 1. Indiana Jones IV
 1. Ghost in the Shell (Live Action)
 1. Shazam
-1. Black Adam
 1. Jurassic Park III
 1. Bayformers II
+1. School of Rock
+1. Black Adam
 1. The Mask
 1. Total Recall (Remake)
 1. Don't Look Up
