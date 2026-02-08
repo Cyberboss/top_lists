@@ -54,9 +54,11 @@
 1. Shazam
 1. Jurassic Park III
 1. Bayformers II
+1. Pulp Fiction
 1. School of Rock
 1. Black Adam
 1. The Mask
+1. Suicide Squad
 1. Batman v Superman
 1. Total Recall (Remake)
 1. Don't Look Up
@@ -67,6 +69,7 @@
 1. Jurassic World
 1. Jurassic World Dominion
 1. Back To the Future III
+1. Love and Monsters
 1. John Wick
 1. Idiocracy
 1. The Social Network
