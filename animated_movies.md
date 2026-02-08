@@ -17,10 +17,12 @@
 1. Zootopia
 1. The Road to El Dorado
 1. Riverdance
+1. Scooby Doo: Zombie Island
 1. Soul
 1. The Lego Movie II
 1. Howl's Moving Castle
 1. The Cat Returns
+1. Scooby Doo: Cyberchase
 1. The Spongebob Movie
 1. Shrek
 1. The Mario Movie
@@ -29,6 +31,7 @@
 1. Chicken Run
 1. How to Train Your Dragon III
 1. The Mitchells vs the Machines
+1. Scooby Doo: Reluctant Werewolf
 1. Bubble
 1. How to Train Your Dragon I
 1. My Neighbor Totoro
