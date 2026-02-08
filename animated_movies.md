@@ -21,6 +21,7 @@
 1. Shrek
 1. The Mario Movie
 1. Hilda: Mountain King
+1. Chicken Run
 1. How to Train Your Dragon III
 1. The Mitchells vs the Machines
 1. Bubble
