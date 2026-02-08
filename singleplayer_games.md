@@ -25,6 +25,7 @@
 1. Star Wars Jedi Knight II: Jedi Outcast
 1. Ghostbusters: The Video Game
 1. Stardew Valley
+1. Rythm Doctor
 1. FTL
 1. Chants of Sennaar
 1. Inscryption
