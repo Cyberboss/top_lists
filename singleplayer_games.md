@@ -29,6 +29,7 @@
 1. Inscryption
 1. The Red Strings Club
 1. Bully: Scholarship Edition
+1. Into the Breach
 1. Electronic Super Joy
 1. Persona IV: Golden
 1. Batman: Arkham City
