@@ -78,6 +78,7 @@
 1. Frostpunk I
 1. A Hat in Time
 1. Red Faction: Guerilla
+1. Watch_Dogs 2
 1. Alan Wake (OG)
 1. Party Hard
 1. Thomas Was Alone
