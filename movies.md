@@ -12,7 +12,11 @@
 1. Tenet
 1. Sahara
 1. Avengers: Infinity War
+1. Captain America: Civil War
+1. Avengers: Age of Ultron
+1. Captain America: The Winter Soldier
 1. Palm Springs
+1. Thor: Ragnarock
 1. Bayformers III
 1. Everything, Everywhere, All at Once
 1. Top Gun: Maverick
@@ -54,6 +58,7 @@
 1. The Cabin in the Woods
 1. Ant-Man III
 1. Oppenheimer
+1. Hellboy II
 1. Indiana Jones V
 1. Minecraft Movie
 1. Slumberland
@@ -65,6 +70,7 @@
 1. Shazam
 1. Jurassic Park III
 1. Bayformers II
+1. Hulk (2003)
 1. Pulp Fiction
 1. Warm Bodies
 1. School of Rock
