@@ -10,6 +10,7 @@
 1. Brooklyn 99
 1. The Midnight Gospel
 1. Doctor Who
+1. I Zombie
 1. Loki
 1. Star Trek TNG
 1. The Magic School Bus (OG)
