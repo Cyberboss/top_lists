@@ -6,6 +6,7 @@
 1. Minecraft
 1. Grand Theft Auto: San Andreas
 1. Portal II
+1. Baldur's Gate III
 1. Civilization V
 1. Risk of Rain II (Pre-enshitification)
 1. Jump Space
