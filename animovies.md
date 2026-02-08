@@ -7,6 +7,7 @@
 1. Puss in Boots: The Last Wish
 1. Spirited Away
 1. Laputa: Castle in the Sky
+1. Across the Spiderverse
 1. Shrek II
 1. The Road to El Dorado
 1. Howl's Moving Castle
