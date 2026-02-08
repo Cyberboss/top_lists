@@ -38,6 +38,7 @@
 1. Iron Man III
 1. Ant-Man
 1. Guardians of the Galaxy III
+1. Pacific Rim
 1. Blade Runner
 1. A Quiet Place
 1. The Dark Knight Rises
