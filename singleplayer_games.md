@@ -8,6 +8,7 @@
 1. Kingdom Hearts II Final Mix
 1. Ori and the Blind Forest: Definitive Edition
 1. Undertale
+1. Mass Effect (Series)
 1. GTA V
 1. Deltarune
 1. Thumper
