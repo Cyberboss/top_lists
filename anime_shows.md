@@ -3,7 +3,7 @@
 1. Cowboy Bebop
 1. Haibane Renmei
 1. Attack on Titan
-1. Neon Genesis Evangelion
+1. Neon Genesis Evangelion (Including The End of Evangelion)
 1. Freiren
 1. HunterxHunter
 1. Cyberpunk Edgerunners
@@ -21,6 +21,6 @@
 1. Fullmetal Alchemist (OG)
 1. Sword Art Online
 1. Dragon Pilot
-1. One Piece
+1. One Piece (OG)
 1. The Orbital Children
 1. Naruto (OG)
