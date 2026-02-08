@@ -15,6 +15,7 @@
 1. Palm Springs
 1. Bayformers III
 1. Top Gun: Maverick
+1. Beetlejuice II
 1. Ant-Man II
 1. Avengers
 1. Jurassic Park I
@@ -23,10 +24,11 @@
 1. Waking Ned Devine
 1. Kong: Skull Island
 1. Indiana Jones III
-1. Iron Man III
 1. The Fifth Element
+1. Beetlejuice I
 1. Iron Man I
 1. The Matrix I
+1. Iron Man III
 1. Ant-Man
 1. Guardians of the Galaxy III
 1. The Dark Knight Rises
