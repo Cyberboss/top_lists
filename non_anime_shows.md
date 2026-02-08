@@ -9,6 +9,7 @@
 1. Love + Death + Robots (Hard to place, really should be per episode)
 1. Brooklyn 99
 1. The Midnight Gospel
+1. Rick And Morty
 1. Doctor Who
 1. I Zombie
 1. Loki
@@ -20,6 +21,7 @@
 1. Shadow and Bone
 1. Inside Job
 1. Africa (Nature Documentary)
+1. Family Guy
 1. Stargate SG-1
 1. Bee and Puppycat
 1. Kim's Convienience
