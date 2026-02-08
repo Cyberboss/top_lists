@@ -21,6 +21,7 @@
 1. Bayformers I
 1. Men in Black II
 1. Waking Ned Devine
+1. Kong: Skull Island
 1. Indiana Jones III
 1. Iron Man III
 1. The Fifth Element
