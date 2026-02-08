@@ -9,6 +9,7 @@
 1. Love + Death + Robots (Hard to place, really should be per episode)
 1. Brooklyn 99
 1. The Midnight Gospel
+1. Doctor Who
 1. Loki
 1. Star Trek TNG
 1. The Magic School Bus (OG)
