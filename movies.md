@@ -41,6 +41,7 @@
 1. Ant-Man III
 1. Oppenheimer
 1. Indiana Jones V
+1. Minecraft Movie
 1. Slumberland
 1. Indiana Jones II
 1. Indiana Jones IV
