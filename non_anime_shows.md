@@ -13,13 +13,17 @@
 1. I Zombie
 1. Loki
 1. Star Trek TNG
+1. The 13 Ghosts of Scooby Doo
 1. The Magic School Bus (OG)
+1. What's new Scooby Doo
+1. Spongebob (OG Seasons)
 1. Shadow and Bone
 1. Inside Job
 1. Africa (Nature Documentary)
 1. Stargate SG-1
 1. Bee and Puppycat
 1. Kim's Convienience
+1. Scooby Doo, Where are you
 1. Derry Girls
 1. Unbreakable Kimmy Schmidt
 1. The Big Bang Theory
