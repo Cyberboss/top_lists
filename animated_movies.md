@@ -10,7 +10,9 @@
 1. The Lego Movie I
 1. Across the Spiderverse
 1. Shrek II
+1. Inside Out II
 1. Sinbad
+1. Inside Out I
 1. Zootopia
 1. The Road to El Dorado
 1. Riverdance
