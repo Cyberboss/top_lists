@@ -35,7 +35,9 @@
 1. Madoka Magica: Rebellion
 1. Princess Mononoke
 1. Flushed Away
+1. The Rescuers II
 1. Paprika
+1. The Rescuers I
 1. How to Train Your Dragon II
 1. Madagascar
 1. The Croods II
