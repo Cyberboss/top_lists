@@ -32,6 +32,8 @@
 1. I Robot
 1. Indiana Jones III
 1. The Fifth Element
+1. The Prestige
+1. Princess Bride
 1. Beetlejuice I
 1. Iron Man I
 1. The Matrix I
@@ -39,7 +41,7 @@
 1. Ant-Man
 1. Guardians of the Galaxy III
 1. Pacific Rim
-1. Blade Runner
+1. Blade Runner (OG)
 1. A Quiet Place
 1. The Dark Knight Rises
 1. Spy Kids II
