@@ -1,10 +1,11 @@
 # Co-op Games
 
+1. Resonite
 1. Helldivers 2
 1. Left 4 Dead 2
 1. Terraria
 1. Minecraft
-1. Grand Theft Auto: San Andreas
+1. Grand Theft Auto: San Andreas (MP)
 1. Portal II
 1. Baldur's Gate III
 1. Civilization V
