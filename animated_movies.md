@@ -5,6 +5,7 @@
 1. Kiki's Delivery Service
 1. Into the Spiderverse
 1. Puss in Boots: The Last Wish
+1. Wildwood (2026)
 1. Spirited Away
 1. Treasure Planet
 1. Laputa: Castle in the Sky
