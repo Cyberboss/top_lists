@@ -14,6 +14,7 @@
 1. Shrek II
 1. Zootopia II
 1. Sinbad
+1. Atlantis: The Lost Empire
 1. Inside Out II
 1. Rise of the Guardians
 1. Inside Out I
